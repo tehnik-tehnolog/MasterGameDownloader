@@ -170,11 +170,10 @@ players_dict = {
 
 downloader = ChessGameDownloader()
 downloader.download_games_for_players(players_dict)
-</details>
-
+```
 ---
 
-##Примечания
+## Примечания
 Убедитесь, что у вас стабильное подключение к интернету.
 Chess.com может блокировать частые запросы. При необходимости добавьте задержки (time.sleep()).
 
@@ -182,3 +181,7 @@ Chess.com может блокировать частые запросы. При 
 
 ## Лицензия
 Этот проект лицензирован в соответствии с лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
+
+</details>
+
+
