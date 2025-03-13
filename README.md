@@ -86,4 +86,4 @@ Use this tool responsibly and comply with Chess.com's terms of service.
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://) file for details.
+This project is licensed under the MIT License. See the [LICENSE](docs/LICENSE) file for details.
